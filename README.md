@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amitsamui257" target="blank"><img src="https://img.shields.io/twitter/follow/amitsamui257?logo=twitter&style=for-the-badge" alt="amitsamui257" /></a> </p>
 
-- 🔭 checkout my portfolio [https://amitsamui.in](amitsamui.in)
+- 🔭 checkout my portfolio [amitsamui.in](https://amitsamui.in)
 
 - 🌱 I’m currently learning **Blockchain and react native**
 
